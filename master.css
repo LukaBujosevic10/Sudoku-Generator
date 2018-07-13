@@ -1,0 +1,23 @@
+#wrap{
+  height: 459px;
+  width: 459px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.kvadrat{
+  height: 150px;
+  width: 150px;
+  border: solid 1px black;
+  float: left;
+  /*box-sizing: border-box;*/
+}
+.mini-kvadrat{
+  height: 50px;
+  width: 50px;
+  border: solid 1px black;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 50px;
+  font-size: 2.5em;
+}
